@@ -1,0 +1,11 @@
+{
+    "name": "module-cms-pages-api",
+    "package": "liberusoftware/module-cms-pages-api",
+    "version": "0.1.0",
+    "layers": [
+        "api"
+    ],
+    "service_providers": [
+        "Liberu\\Cms\\PagesApi\\PagesApiServiceProvider"
+    ]
+}

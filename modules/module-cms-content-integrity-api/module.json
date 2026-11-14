@@ -1,0 +1,6 @@
+{
+    "name": "module-cms-content-integrity-api",
+    "description": "Content Integrity HTTP API.",
+    "provider": "Liberu\\Cms\\ContentIntegrityApi\\ContentIntegrityApiServiceProvider",
+    "version": "0.1.0"
+}

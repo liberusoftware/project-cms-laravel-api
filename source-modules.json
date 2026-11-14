@@ -1,0 +1,3377 @@
+{
+  "source_repository": "liberusoftware/project-cms-laravel-filament",
+  "source_revision": "d9ba8e4149e1ef7a521b39e01eec491ef470e083",
+  "retained": [
+    {
+      "path": "modules/cms-accessibility-assistant",
+      "package": "liberusoftware/module-cms-accessibility-assistant",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-analytics-integration",
+      "package": "liberusoftware/module-cms-analytics-integration",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-api",
+      "package": "liberusoftware/module-cms-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-audit",
+      "package": "liberusoftware/module-cms-audit",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-backup-and-restore",
+      "package": "liberusoftware/module-cms-backup-and-restore",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-block-editor",
+      "package": "liberusoftware/module-cms-block-editor",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-blocks",
+      "package": "liberusoftware/module-cms-blocks",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-cache-and-performance",
+      "package": "liberusoftware/module-cms-cache-and-performance",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-collections",
+      "package": "liberusoftware/module-cms-collections",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-comments-and-discussion",
+      "package": "liberusoftware/module-cms-comments-and-discussion",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-configuration-management",
+      "package": "liberusoftware/module-cms-configuration-management",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-contact-directory",
+      "package": "liberusoftware/module-cms-contact-directory",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content",
+      "package": "liberusoftware/module-cms-content",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-access",
+      "package": "liberusoftware/module-cms-content-access",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-calendar",
+      "package": "liberusoftware/module-cms-content-calendar",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-federation",
+      "package": "liberusoftware/module-cms-content-federation",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-governance",
+      "package": "liberusoftware/module-cms-content-governance",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-integrity",
+      "package": "liberusoftware/module-cms-content-integrity",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-intelligence",
+      "package": "liberusoftware/module-cms-content-intelligence",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-locking",
+      "package": "liberusoftware/module-cms-content-locking",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-templates",
+      "package": "liberusoftware/module-cms-content-templates",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-content-types",
+      "package": "liberusoftware/module-cms-content-types",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-contracts",
+      "package": "liberusoftware/module-cms-contracts",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-copilot",
+      "package": "liberusoftware/module-cms-cms-copilot",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-core",
+      "package": "liberusoftware/module-cms-core",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-digital-asset-management",
+      "package": "liberusoftware/module-cms-digital-asset-management",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-display-modes",
+      "package": "liberusoftware/module-cms-display-modes",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-document-management",
+      "package": "liberusoftware/module-cms-document-management",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-drupal-migration",
+      "package": "liberusoftware/module-cms-drupal-migration",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-embeds",
+      "package": "liberusoftware/module-cms-embeds",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-events-content",
+      "package": "liberusoftware/module-cms-events-content",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-experimentation",
+      "package": "liberusoftware/module-cms-experimentation",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-extension-manager",
+      "package": "liberusoftware/module-cms-extension-manager",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-extension-marketplace",
+      "package": "liberusoftware/module-cms-extension-marketplace",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-field-system",
+      "package": "liberusoftware/module-cms-field-system",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-forms",
+      "package": "liberusoftware/module-cms-forms",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-hello",
+      "package": "liberusoftware/module-cms-hello",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-integration-directory",
+      "package": "liberusoftware/module-cms-integration-directory",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-joomla-migration",
+      "package": "liberusoftware/module-cms-joomla-migration",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-layout-builder",
+      "package": "liberusoftware/module-cms-layout-builder",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-media",
+      "package": "liberusoftware/module-cms-media",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-menus",
+      "package": "liberusoftware/module-cms-menus",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-metadata",
+      "package": "liberusoftware/module-cms-metadata",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-migration-framework",
+      "package": "liberusoftware/module-cms-migration-framework",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-multisite",
+      "package": "liberusoftware/module-cms-multisite",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-notifications",
+      "package": "liberusoftware/module-cms-notifications",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-notifications-and-subscriptions",
+      "package": "liberusoftware/module-cms-notifications-and-subscriptions",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-observability",
+      "package": "liberusoftware/module-cms-observability",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-offline-and-pwa",
+      "package": "liberusoftware/module-cms-offline-and-pwa",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-pages",
+      "package": "liberusoftware/module-cms-pages",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-personalization",
+      "package": "liberusoftware/module-cms-personalization",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-polls-and-surveys",
+      "package": "liberusoftware/module-cms-polls-and-surveys",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-posts",
+      "package": "liberusoftware/module-cms-posts",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-publishing",
+      "package": "liberusoftware/module-cms-publishing",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-recommendations",
+      "package": "liberusoftware/module-cms-recommendations",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-redirects",
+      "package": "liberusoftware/module-cms-redirects",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-regions-and-widgets",
+      "package": "liberusoftware/module-cms-regions-and-widgets",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-related-content",
+      "package": "liberusoftware/module-cms-related-content",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-revisions",
+      "package": "liberusoftware/module-cms-revisions",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-rich-text-editor",
+      "package": "liberusoftware/module-cms-rich-text-editor",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-search",
+      "package": "liberusoftware/module-cms-search",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-security-operations",
+      "package": "liberusoftware/module-cms-security-operations",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-seo",
+      "package": "liberusoftware/module-cms-seo",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-site-factory",
+      "package": "liberusoftware/module-cms-site-factory",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-site-recipes",
+      "package": "liberusoftware/module-cms-site-recipes",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-sitemaps",
+      "package": "liberusoftware/module-cms-sitemaps",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-static-publishing",
+      "package": "liberusoftware/module-cms-static-publishing",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-structured-collections",
+      "package": "liberusoftware/module-cms-structured-collections",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-syndication-and-feeds",
+      "package": "liberusoftware/module-cms-syndication-and-feeds",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-taxonomy",
+      "package": "liberusoftware/module-cms-taxonomy",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-themes",
+      "package": "liberusoftware/module-cms-themes",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-translation-assistant",
+      "package": "liberusoftware/module-cms-translation-assistant",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-translation-management",
+      "package": "liberusoftware/module-cms-translation-management",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-users",
+      "package": "liberusoftware/module-cms-users",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-video-and-audio",
+      "package": "liberusoftware/module-cms-video-and-audio",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-views-and-query-builder",
+      "package": "liberusoftware/module-cms-views-and-query-builder",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-web-delivery",
+      "package": "liberusoftware/module-cms-web-delivery",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-widgets",
+      "package": "liberusoftware/module-cms-widgets",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/cms-wordpress-migration",
+      "package": "liberusoftware/module-cms-wordpress-migration",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-accessibility-assistant-api",
+      "package": "liberusoftware/module-cms-accessibility-assistant-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-analytics-integration-api",
+      "package": "liberusoftware/module-cms-analytics-integration-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-backup-and-restore-api",
+      "package": "liberusoftware/module-cms-backup-and-restore-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-block-editor-api",
+      "package": "liberusoftware/module-cms-block-editor-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-cache-and-performance-api",
+      "package": "liberusoftware/module-cms-cache-and-performance-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-comments-and-discussion-api",
+      "package": "liberusoftware/module-cms-comments-and-discussion-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-configuration-management-api",
+      "package": "liberusoftware/module-cms-configuration-management-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-contact-directory-api",
+      "package": "liberusoftware/module-cms-contact-directory-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-access-api",
+      "package": "liberusoftware/module-cms-content-access-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-calendar-api",
+      "package": "liberusoftware/module-cms-content-calendar-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-entities-api",
+      "package": "liberusoftware/module-cms-content-entities-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-federation-api",
+      "package": "liberusoftware/module-cms-content-federation-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-governance-api",
+      "package": "liberusoftware/module-cms-content-governance-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-integrity-api",
+      "package": "liberusoftware/module-cms-content-integrity-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-intelligence-api",
+      "package": "liberusoftware/module-cms-content-intelligence-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-locking-api",
+      "package": "liberusoftware/module-cms-content-locking-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-search-api",
+      "package": "liberusoftware/module-cms-content-search-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-content-templates-api",
+      "package": "liberusoftware/module-cms-content-templates-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-copilot-api",
+      "package": "liberusoftware/module-cms-copilot-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-core-api",
+      "package": "liberusoftware/module-cms-core-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-digital-asset-management-api",
+      "package": "liberusoftware/module-cms-digital-asset-management-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-display-modes-api",
+      "package": "liberusoftware/module-cms-display-modes-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-document-management-api",
+      "package": "liberusoftware/module-cms-document-management-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-drupal-migration-api",
+      "package": "liberusoftware/module-cms-drupal-migration-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-embeds-api",
+      "package": "liberusoftware/module-cms-embeds-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-events-content-api",
+      "package": "liberusoftware/module-cms-events-content-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-experimentation-api",
+      "package": "liberusoftware/module-cms-experimentation-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-extension-manager-api",
+      "package": "liberusoftware/module-cms-extension-manager-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-extension-marketplace-api",
+      "package": "liberusoftware/module-cms-extension-marketplace-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-field-system-api",
+      "package": "liberusoftware/module-cms-field-system-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-integration-directory-api",
+      "package": "liberusoftware/module-cms-integration-directory-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-joomla-migration-api",
+      "package": "liberusoftware/module-cms-joomla-migration-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-layout-builder-api",
+      "package": "liberusoftware/module-cms-layout-builder-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-metadata-api",
+      "package": "liberusoftware/module-cms-metadata-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-migration-framework-api",
+      "package": "liberusoftware/module-cms-migration-framework-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-multisite-api",
+      "package": "liberusoftware/module-cms-multisite-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-navigation-api",
+      "package": "liberusoftware/module-cms-navigation-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-notifications-and-subscriptions-api",
+      "package": "liberusoftware/module-cms-notifications-and-subscriptions-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-offline-and-pwa-api",
+      "package": "liberusoftware/module-cms-offline-and-pwa-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-pages-api",
+      "package": "liberusoftware/module-cms-pages-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-personalization-api",
+      "package": "liberusoftware/module-cms-personalization-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-polls-and-surveys-api",
+      "package": "liberusoftware/module-cms-polls-and-surveys-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-publishing-api",
+      "package": "liberusoftware/module-cms-publishing-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-recommendations-api",
+      "package": "liberusoftware/module-cms-recommendations-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-redirects-api",
+      "package": "liberusoftware/module-cms-redirects-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-regions-and-widgets-api",
+      "package": "liberusoftware/module-cms-regions-and-widgets-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-related-content-api",
+      "package": "liberusoftware/module-cms-related-content-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-revisions-api",
+      "package": "liberusoftware/module-cms-revisions-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-rich-text-editor-api",
+      "package": "liberusoftware/module-cms-rich-text-editor-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-security-operations-api",
+      "package": "liberusoftware/module-cms-security-operations-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-seo-api",
+      "package": "liberusoftware/module-cms-seo-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-site-factory-api",
+      "package": "liberusoftware/module-cms-site-factory-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-site-recipes-api",
+      "package": "liberusoftware/module-cms-site-recipes-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-sitemaps-api",
+      "package": "liberusoftware/module-cms-sitemaps-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-static-publishing-api",
+      "package": "liberusoftware/module-cms-static-publishing-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-structured-collections-api",
+      "package": "liberusoftware/module-cms-structured-collections-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-syndication-and-feeds-api",
+      "package": "liberusoftware/module-cms-syndication-and-feeds-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-taxonomy-api",
+      "package": "liberusoftware/module-cms-taxonomy-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-translation-assistant-api",
+      "package": "liberusoftware/module-cms-translation-assistant-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-translation-management-api",
+      "package": "liberusoftware/module-cms-translation-management-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-video-and-audio-api",
+      "package": "liberusoftware/module-cms-video-and-audio-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-views-and-query-builder-api",
+      "package": "liberusoftware/module-cms-views-and-query-builder-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-web-delivery-api",
+      "package": "liberusoftware/module-cms-web-delivery-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/module-cms-wordpress-migration-api",
+      "package": "liberusoftware/module-cms-wordpress-migration-api",
+      "version": "0.1.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/tenancy",
+      "package": "liberusoftware/tenancy",
+      "version": "1.2.2",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    },
+    {
+      "path": "modules/users-roles",
+      "package": "liberusoftware/users-roles",
+      "version": "1.0.0",
+      "source_sha": "d9ba8e4149e1ef7a521b39e01eec491ef470e083"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "modules/cms-admin",
+      "package": "liberusoftware/module-cms-admin",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/cms-theme-integration",
+      "package": "liberusoftware/module-cms-theme-integration",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/cms-theme-marketplace",
+      "package": "liberusoftware/module-cms-theme-marketplace",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-accessibility-assistant",
+      "package": "liberusoftware/module-cms-accessibility-assistant",
+      "reason": "duplicate package; canonical copy: modules/cms-accessibility-assistant"
+    },
+    {
+      "path": "modules/module-cms-accessibility-assistant-filament",
+      "package": "liberusoftware/module-cms-accessibility-assistant-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-accessibility-assistant-livewire",
+      "package": "liberusoftware/module-cms-accessibility-assistant-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-admin",
+      "package": "liberusoftware/module-cms-admin",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-analytics-integration",
+      "package": "liberusoftware/module-cms-analytics-integration",
+      "reason": "duplicate package; canonical copy: modules/cms-analytics-integration"
+    },
+    {
+      "path": "modules/module-cms-analytics-integration-filament",
+      "package": "liberusoftware/module-cms-analytics-integration-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-analytics-integration-livewire",
+      "package": "liberusoftware/module-cms-analytics-integration-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-api",
+      "package": "liberusoftware/module-cms-api",
+      "reason": "duplicate package; canonical copy: modules/cms-api"
+    },
+    {
+      "path": "modules/module-cms-audit",
+      "package": "liberusoftware/module-cms-audit",
+      "reason": "duplicate package; canonical copy: modules/cms-audit"
+    },
+    {
+      "path": "modules/module-cms-backup-and-restore",
+      "package": "liberusoftware/module-cms-backup-and-restore",
+      "reason": "duplicate package; canonical copy: modules/cms-backup-and-restore"
+    },
+    {
+      "path": "modules/module-cms-backup-and-restore-filament",
+      "package": "liberusoftware/module-cms-backup-and-restore-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-backup-and-restore-livewire",
+      "package": "liberusoftware/module-cms-backup-and-restore-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-block-editor",
+      "package": "liberusoftware/module-cms-block-editor",
+      "reason": "duplicate package; canonical copy: modules/cms-block-editor"
+    },
+    {
+      "path": "modules/module-cms-block-editor-filament",
+      "package": "liberusoftware/module-cms-block-editor-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-block-editor-livewire",
+      "package": "liberusoftware/module-cms-block-editor-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-blocks",
+      "package": "liberusoftware/module-cms-blocks",
+      "reason": "duplicate package; canonical copy: modules/cms-blocks"
+    },
+    {
+      "path": "modules/module-cms-cache-and-performance",
+      "package": "liberusoftware/module-cms-cache-and-performance",
+      "reason": "duplicate package; canonical copy: modules/cms-cache-and-performance"
+    },
+    {
+      "path": "modules/module-cms-cache-and-performance-filament",
+      "package": "liberusoftware/module-cms-cache-and-performance-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-cache-and-performance-livewire",
+      "package": "liberusoftware/module-cms-cache-and-performance-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-cms-copilot",
+      "package": "liberusoftware/module-cms-cms-copilot",
+      "reason": "duplicate package; canonical copy: modules/cms-copilot"
+    },
+    {
+      "path": "modules/module-cms-collections",
+      "package": "liberusoftware/module-cms-collections",
+      "reason": "duplicate package; canonical copy: modules/cms-collections"
+    },
+    {
+      "path": "modules/module-cms-collections-livewire",
+      "package": "liberusoftware/module-cms-collections-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-comments-and-discussion",
+      "package": "liberusoftware/module-cms-comments-and-discussion",
+      "reason": "duplicate package; canonical copy: modules/cms-comments-and-discussion"
+    },
+    {
+      "path": "modules/module-cms-comments-and-discussion-filament",
+      "package": "liberusoftware/module-cms-comments-and-discussion-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-comments-and-discussion-livewire",
+      "package": "liberusoftware/module-cms-comments-and-discussion-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-configuration-management",
+      "package": "liberusoftware/module-cms-configuration-management",
+      "reason": "duplicate package; canonical copy: modules/cms-configuration-management"
+    },
+    {
+      "path": "modules/module-cms-configuration-management-filament",
+      "package": "liberusoftware/module-cms-configuration-management-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-configuration-management-livewire",
+      "package": "liberusoftware/module-cms-configuration-management-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-contact-directory-filament",
+      "package": "liberusoftware/module-cms-contact-directory-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-contact-directory-livewire",
+      "package": "liberusoftware/module-cms-contact-directory-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content",
+      "package": "liberusoftware/module-cms-content",
+      "reason": "duplicate package; canonical copy: modules/cms-content"
+    },
+    {
+      "path": "modules/module-cms-content-access",
+      "package": "liberusoftware/module-cms-content-access",
+      "reason": "duplicate package; canonical copy: modules/cms-content-access"
+    },
+    {
+      "path": "modules/module-cms-content-access-filament",
+      "package": "liberusoftware/module-cms-content-access-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-access-livewire",
+      "package": "liberusoftware/module-cms-content-access-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-calendar",
+      "package": "liberusoftware/module-cms-content-calendar",
+      "reason": "duplicate package; canonical copy: modules/cms-content-calendar"
+    },
+    {
+      "path": "modules/module-cms-content-calendar-filament",
+      "package": "liberusoftware/module-cms-content-calendar-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-calendar-livewire",
+      "package": "liberusoftware/module-cms-content-calendar-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-entities-filament",
+      "package": "liberusoftware/module-cms-content-entities-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-entities-livewire",
+      "package": "liberusoftware/module-cms-content-entities-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-federation",
+      "package": "liberusoftware/module-cms-content-federation",
+      "reason": "duplicate package; canonical copy: modules/cms-content-federation"
+    },
+    {
+      "path": "modules/module-cms-content-federation-filament",
+      "package": "liberusoftware/module-cms-content-federation-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-federation-livewire",
+      "package": "liberusoftware/module-cms-content-federation-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-governance",
+      "package": "liberusoftware/module-cms-content-governance",
+      "reason": "duplicate package; canonical copy: modules/cms-content-governance"
+    },
+    {
+      "path": "modules/module-cms-content-governance-filament",
+      "package": "liberusoftware/module-cms-content-governance-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-governance-livewire",
+      "package": "liberusoftware/module-cms-content-governance-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-integrity",
+      "package": "liberusoftware/module-cms-content-integrity",
+      "reason": "duplicate package; canonical copy: modules/cms-content-integrity"
+    },
+    {
+      "path": "modules/module-cms-content-integrity-filament",
+      "package": "liberusoftware/module-cms-content-integrity-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-integrity-livewire",
+      "package": "liberusoftware/module-cms-content-integrity-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-intelligence",
+      "package": "liberusoftware/module-cms-content-intelligence",
+      "reason": "duplicate package; canonical copy: modules/cms-content-intelligence"
+    },
+    {
+      "path": "modules/module-cms-content-intelligence-filament",
+      "package": "liberusoftware/module-cms-content-intelligence-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-intelligence-livewire",
+      "package": "liberusoftware/module-cms-content-intelligence-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-locking",
+      "package": "liberusoftware/module-cms-content-locking",
+      "reason": "duplicate package; canonical copy: modules/cms-content-locking"
+    },
+    {
+      "path": "modules/module-cms-content-locking-filament",
+      "package": "liberusoftware/module-cms-content-locking-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-locking-livewire",
+      "package": "liberusoftware/module-cms-content-locking-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-search-filament",
+      "package": "liberusoftware/module-cms-content-search-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-search-livewire",
+      "package": "liberusoftware/module-cms-content-search-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-templates",
+      "package": "liberusoftware/module-cms-content-templates",
+      "reason": "duplicate package; canonical copy: modules/cms-content-templates"
+    },
+    {
+      "path": "modules/module-cms-content-templates-filament",
+      "package": "liberusoftware/module-cms-content-templates-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-templates-livewire",
+      "package": "liberusoftware/module-cms-content-templates-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-content-types",
+      "package": "liberusoftware/module-cms-content-types",
+      "reason": "duplicate package; canonical copy: modules/cms-content-types"
+    },
+    {
+      "path": "modules/module-cms-contracts",
+      "package": "liberusoftware/module-cms-contracts",
+      "reason": "duplicate package; canonical copy: modules/cms-contracts"
+    },
+    {
+      "path": "modules/module-cms-copilot-filament",
+      "package": "liberusoftware/module-cms-copilot-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-copilot-livewire",
+      "package": "liberusoftware/module-cms-copilot-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-core",
+      "package": "liberusoftware/module-cms-core",
+      "reason": "duplicate package; canonical copy: modules/cms-core"
+    },
+    {
+      "path": "modules/module-cms-core-filament",
+      "package": "liberusoftware/module-cms-core-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-core-livewire",
+      "package": "liberusoftware/module-cms-core-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-digital-asset-management",
+      "package": "liberusoftware/module-cms-digital-asset-management",
+      "reason": "duplicate package; canonical copy: modules/cms-digital-asset-management"
+    },
+    {
+      "path": "modules/module-cms-digital-asset-management-filament",
+      "package": "liberusoftware/module-cms-digital-asset-management-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-digital-asset-management-livewire",
+      "package": "liberusoftware/module-cms-digital-asset-management-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-display-modes",
+      "package": "liberusoftware/module-cms-display-modes",
+      "reason": "duplicate package; canonical copy: modules/cms-display-modes"
+    },
+    {
+      "path": "modules/module-cms-display-modes-filament",
+      "package": "liberusoftware/module-cms-display-modes-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-display-modes-livewire",
+      "package": "liberusoftware/module-cms-display-modes-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-document-management",
+      "package": "liberusoftware/module-cms-document-management",
+      "reason": "duplicate package; canonical copy: modules/cms-document-management"
+    },
+    {
+      "path": "modules/module-cms-document-management-filament",
+      "package": "liberusoftware/module-cms-document-management-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-document-management-livewire",
+      "package": "liberusoftware/module-cms-document-management-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-drupal-migration",
+      "package": "liberusoftware/module-cms-drupal-migration",
+      "reason": "duplicate package; canonical copy: modules/cms-drupal-migration"
+    },
+    {
+      "path": "modules/module-cms-drupal-migration-filament",
+      "package": "liberusoftware/module-cms-drupal-migration-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-drupal-migration-livewire",
+      "package": "liberusoftware/module-cms-drupal-migration-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-embeds",
+      "package": "liberusoftware/module-cms-embeds",
+      "reason": "duplicate package; canonical copy: modules/cms-embeds"
+    },
+    {
+      "path": "modules/module-cms-embeds-filament",
+      "package": "liberusoftware/module-cms-embeds-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-embeds-livewire",
+      "package": "liberusoftware/module-cms-embeds-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-events-content",
+      "package": "liberusoftware/module-cms-events-content",
+      "reason": "duplicate package; canonical copy: modules/cms-events-content"
+    },
+    {
+      "path": "modules/module-cms-events-content-filament",
+      "package": "liberusoftware/module-cms-events-content-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-events-content-livewire",
+      "package": "liberusoftware/module-cms-events-content-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-experimentation",
+      "package": "liberusoftware/module-cms-experimentation",
+      "reason": "duplicate package; canonical copy: modules/cms-experimentation"
+    },
+    {
+      "path": "modules/module-cms-experimentation-filament",
+      "package": "liberusoftware/module-cms-experimentation-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-experimentation-livewire",
+      "package": "liberusoftware/module-cms-experimentation-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-extension-manager",
+      "package": "liberusoftware/module-cms-extension-manager",
+      "reason": "duplicate package; canonical copy: modules/cms-extension-manager"
+    },
+    {
+      "path": "modules/module-cms-extension-manager-filament",
+      "package": "liberusoftware/module-cms-extension-manager-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-extension-manager-livewire",
+      "package": "liberusoftware/module-cms-extension-manager-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-extension-marketplace",
+      "package": "liberusoftware/module-cms-extension-marketplace",
+      "reason": "duplicate package; canonical copy: modules/cms-extension-marketplace"
+    },
+    {
+      "path": "modules/module-cms-extension-marketplace-filament",
+      "package": "liberusoftware/module-cms-extension-marketplace-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-extension-marketplace-livewire",
+      "package": "liberusoftware/module-cms-extension-marketplace-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-field-system",
+      "package": "liberusoftware/module-cms-field-system",
+      "reason": "duplicate package; canonical copy: modules/cms-field-system"
+    },
+    {
+      "path": "modules/module-cms-field-system-filament",
+      "package": "liberusoftware/module-cms-field-system-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-field-system-livewire",
+      "package": "liberusoftware/module-cms-field-system-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-forms",
+      "package": "liberusoftware/module-cms-forms",
+      "reason": "duplicate package; canonical copy: modules/cms-forms"
+    },
+    {
+      "path": "modules/module-cms-hello",
+      "package": "liberusoftware/module-cms-hello",
+      "reason": "duplicate package; canonical copy: modules/cms-hello"
+    },
+    {
+      "path": "modules/module-cms-hello-livewire",
+      "package": "liberusoftware/module-cms-hello-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-integration-directory",
+      "package": "liberusoftware/module-cms-integration-directory",
+      "reason": "duplicate package; canonical copy: modules/cms-integration-directory"
+    },
+    {
+      "path": "modules/module-cms-integration-directory-filament",
+      "package": "liberusoftware/module-cms-integration-directory-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-integration-directory-livewire",
+      "package": "liberusoftware/module-cms-integration-directory-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-joomla-migration",
+      "package": "liberusoftware/module-cms-joomla-migration",
+      "reason": "duplicate package; canonical copy: modules/cms-joomla-migration"
+    },
+    {
+      "path": "modules/module-cms-joomla-migration-filament",
+      "package": "liberusoftware/module-cms-joomla-migration-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-joomla-migration-livewire",
+      "package": "liberusoftware/module-cms-joomla-migration-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-layout-builder",
+      "package": "liberusoftware/module-cms-layout-builder",
+      "reason": "duplicate package; canonical copy: modules/cms-layout-builder"
+    },
+    {
+      "path": "modules/module-cms-layout-builder-filament",
+      "package": "liberusoftware/module-cms-layout-builder-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-layout-builder-livewire",
+      "package": "liberusoftware/module-cms-layout-builder-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-media",
+      "package": "liberusoftware/module-cms-media",
+      "reason": "duplicate package; canonical copy: modules/cms-media"
+    },
+    {
+      "path": "modules/module-cms-menus",
+      "package": "liberusoftware/module-cms-menus",
+      "reason": "duplicate package; canonical copy: modules/cms-menus"
+    },
+    {
+      "path": "modules/module-cms-metadata",
+      "package": "liberusoftware/module-cms-metadata",
+      "reason": "duplicate package; canonical copy: modules/cms-metadata"
+    },
+    {
+      "path": "modules/module-cms-metadata-filament",
+      "package": "liberusoftware/module-cms-metadata-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-metadata-livewire",
+      "package": "liberusoftware/module-cms-metadata-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-migration-framework",
+      "package": "liberusoftware/module-cms-migration-framework",
+      "reason": "duplicate package; canonical copy: modules/cms-migration-framework"
+    },
+    {
+      "path": "modules/module-cms-migration-framework-filament",
+      "package": "liberusoftware/module-cms-migration-framework-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-migration-framework-livewire",
+      "package": "liberusoftware/module-cms-migration-framework-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-multisite",
+      "package": "liberusoftware/module-cms-multisite",
+      "reason": "duplicate package; canonical copy: modules/cms-multisite"
+    },
+    {
+      "path": "modules/module-cms-multisite-filament",
+      "package": "liberusoftware/module-cms-multisite-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-multisite-livewire",
+      "package": "liberusoftware/module-cms-multisite-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-navigation-filament",
+      "package": "liberusoftware/module-cms-navigation-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-navigation-livewire",
+      "package": "liberusoftware/module-cms-navigation-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-notifications",
+      "package": "liberusoftware/module-cms-notifications",
+      "reason": "duplicate package; canonical copy: modules/cms-notifications"
+    },
+    {
+      "path": "modules/module-cms-notifications-and-subscriptions",
+      "package": "liberusoftware/module-cms-notifications-and-subscriptions",
+      "reason": "duplicate package; canonical copy: modules/cms-notifications-and-subscriptions"
+    },
+    {
+      "path": "modules/module-cms-notifications-and-subscriptions-filament",
+      "package": "liberusoftware/module-cms-notifications-and-subscriptions-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-notifications-and-subscriptions-livewire",
+      "package": "liberusoftware/module-cms-notifications-and-subscriptions-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-observability",
+      "package": "liberusoftware/module-cms-observability",
+      "reason": "duplicate package; canonical copy: modules/cms-observability"
+    },
+    {
+      "path": "modules/module-cms-offline-and-pwa",
+      "package": "liberusoftware/module-cms-offline-and-pwa",
+      "reason": "duplicate package; canonical copy: modules/cms-offline-and-pwa"
+    },
+    {
+      "path": "modules/module-cms-offline-and-pwa-filament",
+      "package": "liberusoftware/module-cms-offline-and-pwa-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-offline-and-pwa-livewire",
+      "package": "liberusoftware/module-cms-offline-and-pwa-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-pages",
+      "package": "liberusoftware/module-cms-pages",
+      "reason": "duplicate package; canonical copy: modules/cms-pages"
+    },
+    {
+      "path": "modules/module-cms-pages-filament",
+      "package": "liberusoftware/module-cms-pages-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-pages-livewire",
+      "package": "liberusoftware/module-cms-pages-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-personalization",
+      "package": "liberusoftware/module-cms-personalization",
+      "reason": "duplicate package; canonical copy: modules/cms-personalization"
+    },
+    {
+      "path": "modules/module-cms-personalization-filament",
+      "package": "liberusoftware/module-cms-personalization-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-personalization-livewire",
+      "package": "liberusoftware/module-cms-personalization-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-polls-and-surveys",
+      "package": "liberusoftware/module-cms-polls-and-surveys",
+      "reason": "duplicate package; canonical copy: modules/cms-polls-and-surveys"
+    },
+    {
+      "path": "modules/module-cms-polls-and-surveys-filament",
+      "package": "liberusoftware/module-cms-polls-and-surveys-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-polls-and-surveys-livewire",
+      "package": "liberusoftware/module-cms-polls-and-surveys-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-posts",
+      "package": "liberusoftware/module-cms-posts",
+      "reason": "duplicate package; canonical copy: modules/cms-posts"
+    },
+    {
+      "path": "modules/module-cms-publishing",
+      "package": "liberusoftware/module-cms-publishing",
+      "reason": "duplicate package; canonical copy: modules/cms-publishing"
+    },
+    {
+      "path": "modules/module-cms-publishing-filament",
+      "package": "liberusoftware/module-cms-publishing-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-publishing-livewire",
+      "package": "liberusoftware/module-cms-publishing-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-recommendations",
+      "package": "liberusoftware/module-cms-recommendations",
+      "reason": "duplicate package; canonical copy: modules/cms-recommendations"
+    },
+    {
+      "path": "modules/module-cms-recommendations-filament",
+      "package": "liberusoftware/module-cms-recommendations-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-recommendations-livewire",
+      "package": "liberusoftware/module-cms-recommendations-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-redirects",
+      "package": "liberusoftware/module-cms-redirects",
+      "reason": "duplicate package; canonical copy: modules/cms-redirects"
+    },
+    {
+      "path": "modules/module-cms-redirects-filament",
+      "package": "liberusoftware/module-cms-redirects-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-redirects-livewire",
+      "package": "liberusoftware/module-cms-redirects-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-regions-and-widgets",
+      "package": "liberusoftware/module-cms-regions-and-widgets",
+      "reason": "duplicate package; canonical copy: modules/cms-regions-and-widgets"
+    },
+    {
+      "path": "modules/module-cms-regions-and-widgets-filament",
+      "package": "liberusoftware/module-cms-regions-and-widgets-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-regions-and-widgets-livewire",
+      "package": "liberusoftware/module-cms-regions-and-widgets-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-related-content",
+      "package": "liberusoftware/module-cms-related-content",
+      "reason": "duplicate package; canonical copy: modules/cms-related-content"
+    },
+    {
+      "path": "modules/module-cms-related-content-filament",
+      "package": "liberusoftware/module-cms-related-content-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-related-content-livewire",
+      "package": "liberusoftware/module-cms-related-content-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-revisions",
+      "package": "liberusoftware/module-cms-revisions",
+      "reason": "duplicate package; canonical copy: modules/cms-revisions"
+    },
+    {
+      "path": "modules/module-cms-revisions-filament",
+      "package": "liberusoftware/module-cms-revisions-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-revisions-livewire",
+      "package": "liberusoftware/module-cms-revisions-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-rich-text-editor",
+      "package": "liberusoftware/module-cms-rich-text-editor",
+      "reason": "duplicate package; canonical copy: modules/cms-rich-text-editor"
+    },
+    {
+      "path": "modules/module-cms-rich-text-editor-filament",
+      "package": "liberusoftware/module-cms-rich-text-editor-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-rich-text-editor-livewire",
+      "package": "liberusoftware/module-cms-rich-text-editor-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-search",
+      "package": "liberusoftware/module-cms-search",
+      "reason": "duplicate package; canonical copy: modules/cms-search"
+    },
+    {
+      "path": "modules/module-cms-security-operations",
+      "package": "liberusoftware/module-cms-security-operations",
+      "reason": "duplicate package; canonical copy: modules/cms-security-operations"
+    },
+    {
+      "path": "modules/module-cms-security-operations-filament",
+      "package": "liberusoftware/module-cms-security-operations-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-security-operations-livewire",
+      "package": "liberusoftware/module-cms-security-operations-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-seo",
+      "package": "liberusoftware/module-cms-seo",
+      "reason": "duplicate package; canonical copy: modules/cms-seo"
+    },
+    {
+      "path": "modules/module-cms-seo-filament",
+      "package": "liberusoftware/module-cms-seo-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-seo-livewire",
+      "package": "liberusoftware/module-cms-seo-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-site-factory",
+      "package": "liberusoftware/module-cms-site-factory",
+      "reason": "duplicate package; canonical copy: modules/cms-site-factory"
+    },
+    {
+      "path": "modules/module-cms-site-factory-filament",
+      "package": "liberusoftware/module-cms-site-factory-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-site-factory-livewire",
+      "package": "liberusoftware/module-cms-site-factory-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-site-recipes",
+      "package": "liberusoftware/module-cms-site-recipes",
+      "reason": "duplicate package; canonical copy: modules/cms-site-recipes"
+    },
+    {
+      "path": "modules/module-cms-site-recipes-filament",
+      "package": "liberusoftware/module-cms-site-recipes-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-site-recipes-livewire",
+      "package": "liberusoftware/module-cms-site-recipes-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-sitemaps",
+      "package": "liberusoftware/module-cms-sitemaps",
+      "reason": "duplicate package; canonical copy: modules/cms-sitemaps"
+    },
+    {
+      "path": "modules/module-cms-sitemaps-filament",
+      "package": "liberusoftware/module-cms-sitemaps-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-sitemaps-livewire",
+      "package": "liberusoftware/module-cms-sitemaps-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-static-publishing",
+      "package": "liberusoftware/module-cms-static-publishing",
+      "reason": "duplicate package; canonical copy: modules/cms-static-publishing"
+    },
+    {
+      "path": "modules/module-cms-static-publishing-filament",
+      "package": "liberusoftware/module-cms-static-publishing-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-static-publishing-livewire",
+      "package": "liberusoftware/module-cms-static-publishing-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-structured-collections",
+      "package": "liberusoftware/module-cms-structured-collections",
+      "reason": "duplicate package; canonical copy: modules/cms-structured-collections"
+    },
+    {
+      "path": "modules/module-cms-structured-collections-filament",
+      "package": "liberusoftware/module-cms-structured-collections-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-structured-collections-livewire",
+      "package": "liberusoftware/module-cms-structured-collections-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-syndication-and-feeds",
+      "package": "liberusoftware/module-cms-syndication-and-feeds",
+      "reason": "duplicate package; canonical copy: modules/cms-syndication-and-feeds"
+    },
+    {
+      "path": "modules/module-cms-syndication-and-feeds-filament",
+      "package": "liberusoftware/module-cms-syndication-and-feeds-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-syndication-and-feeds-livewire",
+      "package": "liberusoftware/module-cms-syndication-and-feeds-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-taxonomy",
+      "package": "liberusoftware/module-cms-taxonomy",
+      "reason": "duplicate package; canonical copy: modules/cms-taxonomy"
+    },
+    {
+      "path": "modules/module-cms-taxonomy-filament",
+      "package": "liberusoftware/module-cms-taxonomy-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-taxonomy-livewire",
+      "package": "liberusoftware/module-cms-taxonomy-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-integration",
+      "package": "liberusoftware/module-cms-theme-integration",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-integration-api",
+      "package": "liberusoftware/module-cms-theme-integration-api",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-integration-filament",
+      "package": "liberusoftware/module-cms-theme-integration-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-integration-livewire",
+      "package": "liberusoftware/module-cms-theme-integration-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-marketplace",
+      "package": "liberusoftware/module-cms-theme-marketplace",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-marketplace-api",
+      "package": "liberusoftware/module-cms-theme-marketplace-api",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-marketplace-filament",
+      "package": "liberusoftware/module-cms-theme-marketplace-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-theme-marketplace-livewire",
+      "package": "liberusoftware/module-cms-theme-marketplace-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-themes",
+      "package": "liberusoftware/module-cms-themes",
+      "reason": "duplicate package; canonical copy: modules/cms-themes"
+    },
+    {
+      "path": "modules/module-cms-translation-assistant",
+      "package": "liberusoftware/module-cms-translation-assistant",
+      "reason": "duplicate package; canonical copy: modules/cms-translation-assistant"
+    },
+    {
+      "path": "modules/module-cms-translation-assistant-filament",
+      "package": "liberusoftware/module-cms-translation-assistant-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-translation-assistant-livewire",
+      "package": "liberusoftware/module-cms-translation-assistant-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-translation-management",
+      "package": "liberusoftware/module-cms-translation-management",
+      "reason": "duplicate package; canonical copy: modules/cms-translation-management"
+    },
+    {
+      "path": "modules/module-cms-translation-management-filament",
+      "package": "liberusoftware/module-cms-translation-management-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-translation-management-livewire",
+      "package": "liberusoftware/module-cms-translation-management-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-users",
+      "package": "liberusoftware/module-cms-users",
+      "reason": "duplicate package; canonical copy: modules/cms-users"
+    },
+    {
+      "path": "modules/module-cms-video-and-audio",
+      "package": "liberusoftware/module-cms-video-and-audio",
+      "reason": "duplicate package; canonical copy: modules/cms-video-and-audio"
+    },
+    {
+      "path": "modules/module-cms-video-and-audio-filament",
+      "package": "liberusoftware/module-cms-video-and-audio-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-video-and-audio-livewire",
+      "package": "liberusoftware/module-cms-video-and-audio-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-views-and-query-builder",
+      "package": "liberusoftware/module-cms-views-and-query-builder",
+      "reason": "duplicate package; canonical copy: modules/cms-views-and-query-builder"
+    },
+    {
+      "path": "modules/module-cms-views-and-query-builder-filament",
+      "package": "liberusoftware/module-cms-views-and-query-builder-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-views-and-query-builder-livewire",
+      "package": "liberusoftware/module-cms-views-and-query-builder-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-web-delivery",
+      "package": "liberusoftware/module-cms-web-delivery",
+      "reason": "duplicate package; canonical copy: modules/cms-web-delivery"
+    },
+    {
+      "path": "modules/module-cms-web-delivery-filament",
+      "package": "liberusoftware/module-cms-web-delivery-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-web-delivery-livewire",
+      "package": "liberusoftware/module-cms-web-delivery-livewire",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-widgets",
+      "package": "liberusoftware/module-cms-widgets",
+      "reason": "duplicate package; canonical copy: modules/cms-widgets"
+    },
+    {
+      "path": "modules/module-cms-wordpress-migration",
+      "package": "liberusoftware/module-cms-wordpress-migration",
+      "reason": "duplicate package; canonical copy: modules/cms-wordpress-migration"
+    },
+    {
+      "path": "modules/module-cms-wordpress-migration-filament",
+      "package": "liberusoftware/module-cms-wordpress-migration-filament",
+      "reason": "presentation adapter or web host"
+    },
+    {
+      "path": "modules/module-cms-wordpress-migration-livewire",
+      "package": "liberusoftware/module-cms-wordpress-migration-livewire",
+      "reason": "presentation adapter or web host"
+    }
+  ],
+  "policy": "Domain and API modules only. Embedded panel adapters removed; tenancy uses explicit scoped TenantState rather than Filament tenant resolution. Local Composer path packages are authoritative. Pulse dashboard dependency and UI-specific views, routes, scaffolds, tests and hooks are excluded. Jetstream models and Socialstream OAuth contracts are retained without panels.",
+  "adaptations": [
+    {
+      "path": "modules/cms-accessibility-assistant/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-accessibility-assistant/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-analytics-integration/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-analytics-integration/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-api/src/CmsApiServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-api/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-api/src/Filament/ApiTokenResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-api/src/Filament/Pages/ListApiTokens.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-audit/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-audit/src/CmsAuditServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-audit/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-audit/src/Filament/AuditLogResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-audit/src/Filament/Pages/ListAuditLogs.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-backup-and-restore/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-backup-and-restore/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-block-editor/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-block-editor/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-blocks/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-blocks/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-cache-and-performance/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-cache-and-performance/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-collections/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-collections/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-collections/src/CollectionsServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-collections/src/Filament/CollectionItemResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-collections/src/Filament/CollectionResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-collections/src/Filament/Pages/ListCollectionItems.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-collections/src/Filament/Pages/ListCollections.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-comments-and-discussion/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-comments-and-discussion/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-configuration-management/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-configuration-management/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-contact-directory/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-contact-directory/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-content-access/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-access/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-calendar/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-calendar/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-federation/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-federation/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-governance/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-governance/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-integrity/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-integrity/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-intelligence/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-intelligence/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-locking/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-locking/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-templates/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-templates/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-types/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-types/src/ContentTypesServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-types/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-content-types/src/Fields/DefaultFieldTypes.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-content-types/src/Filament/ContentEntryResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-content-types/src/Filament/ContentTypeResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-content-types/src/Filament/Pages/ListContentEntries.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-content-types/src/Filament/Pages/ListContentTypes.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-contracts/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-contracts/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-copilot/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-copilot/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-core/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-core/src/CmsCoreServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-core/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-core/src/Console/MakeFieldTypeCommand.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-core/src/Filament/Concerns/AuthorizesWithPermissions.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-digital-asset-management/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-digital-asset-management/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-display-modes/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-display-modes/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-document-management/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-document-management/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-drupal-migration/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-drupal-migration/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-embeds/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-embeds/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-events-content/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-events-content/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-experimentation/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-experimentation/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-extension-manager/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-extension-manager/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-extension-marketplace/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-extension-marketplace/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-field-system/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-field-system/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-forms/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-forms/routes/web.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-forms/src/CmsFormsServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-forms/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-forms/src/Filament/FormResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-forms/src/Filament/FormSubmissionResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-forms/src/Filament/Pages/ListFormSubmissions.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-forms/src/Filament/Pages/ListForms.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-hello/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-hello/src/HelloServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-hello/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-hello/src/Fields/GreetingFieldType.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-hello/src/Filament/GreetingResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-hello/src/Filament/Pages/ListGreetings.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-integration-directory/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-integration-directory/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-joomla-migration/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-joomla-migration/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-layout-builder/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-layout-builder/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-media/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-media/src/MediaServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-media/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-media/src/Filament/MediaResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-media/src/Filament/Pages/ListMedia.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-menus/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-menus/src/MenusServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-menus/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-menus/src/Filament/MenuItemResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-menus/src/Filament/MenuResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-menus/src/Filament/Pages/ListMenuItems.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-menus/src/Filament/Pages/ListMenus.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-metadata/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-metadata/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-migration-framework/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-migration-framework/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-multisite/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-multisite/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-notifications/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-notifications/src/CmsNotificationsServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-notifications/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-notifications/src/Filament/NotificationLogResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-notifications/src/Filament/Pages/ListNotificationLogs.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-notifications-and-subscriptions/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-notifications-and-subscriptions/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-observability/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-observability/routes/web.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-observability/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-offline-and-pwa/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-offline-and-pwa/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-pages/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-pages/src/PagesServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-pages/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-pages/src/Filament/PageResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-pages/src/Filament/Pages/ListPages.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-personalization/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-personalization/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-polls-and-surveys/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-polls-and-surveys/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-posts/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-posts/src/PostsServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-posts/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-posts/src/Filament/PostResource.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-posts/src/Filament/Pages/ListPosts.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-publishing/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-publishing/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-recommendations/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-recommendations/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-redirects/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-redirects/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-regions-and-widgets/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-regions-and-widgets/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-related-content/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-related-content/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-revisions/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-revisions/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-rich-text-editor/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-rich-text-editor/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-search/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-search/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-security-operations/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-security-operations/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-seo/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-seo/routes/web.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-seo/src/CmsSeoServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-seo/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-seo/resources/views/sitemap.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-seo/resources/views/components/meta.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-site-factory/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-site-factory/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-site-recipes/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-site-recipes/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-sitemaps/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-sitemaps/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-static-publishing/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-static-publishing/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-structured-collections/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-structured-collections/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-syndication-and-feeds/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-syndication-and-feeds/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-taxonomy/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-taxonomy/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-themes/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-themes/src/AbstractTheme.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-themes/src/ThemeManager.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-themes/src/ThemesServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-themes/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-themes/resources/views/filament/pages/theme-management.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-themes/src/Filament/Pages/ThemeManagement.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-translation-assistant/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-translation-assistant/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-translation-management/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-translation-management/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-users/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-users/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-video-and-audio/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-video-and-audio/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-views-and-query-builder/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-views-and-query-builder/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-web-delivery/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-web-delivery/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-widgets/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-widgets/src/WidgetsServiceProvider.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-widgets/.github/workflows/quality.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-widgets/resources/views/filament/pages/widget-overview.blade.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-widgets/src/Filament/Pages/WidgetOverview.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/cms-wordpress-migration/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/cms-wordpress-migration/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-accessibility-assistant-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-accessibility-assistant-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-analytics-integration-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-backup-and-restore-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-block-editor-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-cache-and-performance-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-comments-and-discussion-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-comments-and-discussion-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-configuration-management-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-configuration-management-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-contact-directory-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-contact-directory-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-access-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-access-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-calendar-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-calendar-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-entities-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-entities-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-federation-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-federation-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-governance-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-governance-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-integrity-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-integrity-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-intelligence-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-intelligence-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-locking-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-locking-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-search-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-search-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-templates-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-content-templates-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-copilot-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-core-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-core-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-digital-asset-management-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-digital-asset-management-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-display-modes-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-display-modes-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-document-management-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-document-management-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-drupal-migration-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-drupal-migration-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-embeds-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-embeds-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-events-content-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-events-content-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-experimentation-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-experimentation-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-extension-manager-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-extension-manager-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-extension-marketplace-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-extension-marketplace-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-field-system-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-field-system-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-integration-directory-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-integration-directory-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-joomla-migration-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-joomla-migration-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-layout-builder-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-layout-builder-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-metadata-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-metadata-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-migration-framework-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-migration-framework-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-multisite-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-multisite-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-navigation-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-navigation-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-notifications-and-subscriptions-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-notifications-and-subscriptions-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-offline-and-pwa-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-offline-and-pwa-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-pages-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-pages-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-personalization-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-personalization-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-polls-and-surveys-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-polls-and-surveys-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-publishing-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-publishing-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-recommendations-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-recommendations-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-redirects-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-redirects-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-regions-and-widgets-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-regions-and-widgets-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-related-content-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-related-content-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-revisions-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-revisions-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-rich-text-editor-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-rich-text-editor-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-security-operations-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-security-operations-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-seo-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-seo-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-site-factory-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-site-factory-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-site-recipes-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-site-recipes-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-sitemaps-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-sitemaps-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-static-publishing-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-static-publishing-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-structured-collections-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-structured-collections-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-syndication-and-feeds-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-syndication-and-feeds-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-taxonomy-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-taxonomy-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-translation-assistant-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-translation-assistant-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-translation-management-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-translation-management-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-video-and-audio-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-video-and-audio-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-views-and-query-builder-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-views-and-query-builder-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-web-delivery-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-web-delivery-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-wordpress-migration-api/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/module-cms-wordpress-migration-api/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/module.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/src/TenantContext.php",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/tenancy/src/Listeners/SwitchTeam.php",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/composer.json",
+      "change": "adapted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/compatibility.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/install.yml",
+      "change": "omitted"
+    },
+    {
+      "path": "modules/users-roles/.github/workflows/tests.yml",
+      "change": "omitted"
+    }
+  ]
+}

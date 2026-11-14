@@ -1,0 +1,6 @@
+{
+    "name": "cms-content-templates",
+    "description": "Versioned content templates and controlled rollout.",
+    "provider": "Liberu\\Cms\\ContentTemplates\\ContentTemplatesServiceProvider",
+    "version": "0.1.0"
+}

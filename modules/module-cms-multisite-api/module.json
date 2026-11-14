@@ -1,0 +1,6 @@
+{
+    "name": "Multisite API",
+    "key": "multisite-api",
+    "version": "0.1.0",
+    "description": "Tenant-aware multisite governance API"
+}
